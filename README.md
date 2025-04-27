@@ -1,3 +1,6 @@
+Here is the updated `README.md` with your information:
+
+```markdown
 <!-- To Bring back the link to the top--> 
 <a name="readme-top"></a>
 
@@ -13,25 +16,25 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]:
-[contributors-url]:
-[forks-shield]:
-[forks-url]:
-[stars-shield]:
-[stars-url]:
-[issues-shield]: 
-[issues-url]: 
-[license-shield]:
-[license-url]: 
-[linkedin-shield]: 
-[linkedin-url]: 
-[twitter-shield]:
-[twitter-url]: 
+[contributors-shield]: https://img.shields.io/github/contributors/D-mane07/Titanic-survival-prediction.svg?style=for-the-badge
+[contributors-url]: https://github.com/D-mane07/Titanic-survival-prediction/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/D-mane07/Titanic-survival-prediction.svg?style=for-the-badge
+[forks-url]: https://github.com/D-mane07/Titanic-survival-prediction/network/members
+[stars-shield]: https://img.shields.io/github/stars/D-mane07/Titanic-survival-prediction.svg?style=for-the-badge
+[stars-url]: https://github.com/D-mane07/Titanic-survival-prediction/stargazers
+[issues-shield]: https://img.shields.io/github/issues/D-mane07/Titanic-survival-prediction.svg?style=for-the-badge
+[issues-url]: https://github.com/D-mane07/Titanic-survival-prediction/issues
+[license-shield]: https://img.shields.io/github/license/D-mane07/Titanic-survival-prediction.svg?style=for-the-badge
+[license-url]: https://github.com/D-mane07/Titanic-survival-prediction/blob/main/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/dhanyakumar-mane
+[twitter-shield]: https://img.shields.io/badge/X.com%20(Twitter)%20-black.svg?style=for-the-badge&logo=X&colorB=555
+[twitter-url]: https://twitter.com/DhanyakumarMane
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Ruban2205/titanic-classification/">
+  <a href="https://github.com/D-mane07/Titanic-survival-prediction/">
     <img src="assets/titanic.jpg" alt="Logo" width="160" height="80">
   </a>
 
@@ -40,10 +43,10 @@
   <p align="center">
     A prediction of a passenger's survival in the Titanic based on various features such as age, gender, class, and more. 
     <br />
-    <a href="https://github.com/D-mane07/Titanic-survival-prediction/blob/main/notebook/titanic_classifier_main.ipynb"><strong>Explore the project »</strong></a>
+    <a href="https://github.com/D-mane07/Titanic-survival-prediction/blob/main/titanic.zip"><strong>Explore the project »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Ruban2205/D-mane07/Titanic-survival-prediction/issues">Report Bug</a>
+    <a href="https://github.com/D-mane07/Titanic-survival-prediction/issues">Report Bug</a>
     ·
     <a href="https://github.com/D-mane07/Titanic-survival-prediction/issues">Request Feature</a>
   </p>
@@ -118,15 +121,15 @@ The project follows a structured workflow:
 
 ## Built With 🖥️
 
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/Ruban2205)
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://github.com/Ruban2205)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/D-mane07)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://github.com/D-mane07)
 
-[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/Ruban2205)
-[![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/Ruban2205)
-[![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://github.com/Ruban2205)
-[![Scikit_Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/Ruban2205)
+[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/D-mane07)
+[![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/D-mane07)
+[![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://github.com/D-mane07)
+[![Scikit_Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/D-mane07)
 
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://github.com/Ruban2205)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://github.com/D-mane07)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,12 +146,12 @@ You must have Python installed on your machine in order to use this project. Pyt
 
 1. Clone the repository to your local machine
 ```
-git clone https://github.com/Ruban2205/titanic-classification.git
+git clone https://github.com/D-mane07/Titanic-survival-prediction.git
 ```
 
 2. Change directory into the repository
 ```
-cd titanic-classification
+cd Titanic-survival-prediction
 ```
 
 3. Explore the notebooks in the repository using a Jupyter Notebook or JupyterLab environment. You can launch the environment by running the following command:
@@ -193,45 +196,6 @@ Please ensure your contributions adhere to the coding style and guidelines used 
 <!--Licence-->
 ## License 📄
 
-This repository is licensed under the MIT LICENSE. You are free to use, modify, and distribute the code and content within this repository for personal or commercial purposes. However, please provide attribution to the original repository by linking back to it.
+This repository is licensed under the [MIT LICENSE](/LICENSE). You are free to use, modify, and distribute the code and content within this repository for personal or commercial purposes. However, please provide attribution to the original repository by linking back to it.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!--Acknowledgements-->
-## Acknowledgements 🙏
-
-I want to express my appreciation to the people who created the [Titanic dataset](https://www.kaggle.com/competitions/titanic/data) and the larger machine learning and data science community for their insightful contributions.
-
-You may learn more about the principles of machine learning, the use of models, and the actual applications of AI in the categorization of issues by investigating and participating in my Iris categorization Machine Learning Project.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!--Contact-->
-## Contact ☎️
-
-For any questions or inquiries, please feel free to approach me through the following channels: 
-
-- Dhanyakumar Mane 
-
-[![Website]
-[![Mail]
-[![LinkedIn]
-[![Kaggle]
-
-Feel free to report any issues or suggest improvements by creating an issue in the GitHub repository.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-### Star ⭐ Some Of My Repositories for Future use 😉
-
-Click below to gift a book to me.
-
-[![BuyMeABook](https://img.shields.io/badge/Buy%20Me%20a%20Book-ffdd00?style=for-the-badge&logo=buy-me-a-book&logoColor=black)
-])
-
-**Thank You!!**
-
-<hr/>
+<p align="right">(<a href="#readme-top">back to top</
