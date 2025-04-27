@@ -188,7 +188,6 @@ You may learn more about the principles of machine learning, the use of models, 
 ## Contact ☎️
 
 For any questions or inquiries, please feel free to approach me through the following channels: 
-
 - Dhanyakumar Mane 
 
 Feel free to report any issues or suggest improvements by creating an issue in the GitHub repository.
